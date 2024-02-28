@@ -44,7 +44,7 @@ Ao aplicar o t-SNE (t-distributed Stochastic Neighbor Embedding), obtivemos grá
 
 # Plots dos clusters por países
 
-![alt text](./imgs/image.png)
+![alt text](./imgs/image0-2.png)
 
 Aqui podemos observar que a dimensão raised (investimento recebido pela startup) tem uma relação
 inversamente proporcional a ESG, ou seja, quanto mais investimentos a startup recebe, menos ela cresce
