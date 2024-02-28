@@ -65,7 +65,7 @@ tais empresas se preocuparam muito pouco com questões como:
 
 Aqui temos um gráfico que mostra startups por países e seus respectivos investimentos (raised).
 
-![alt text](./imgs/image-2.png)
+![alt text](./imgs/image-2-2.png)
 
 Esta imagem utiliza a técnica t-SNE (t-distributed stochastic neighbor embedding) que é uma técnica
 de redução de dimensionalidade, no caso, está redimensionando o primeiro gráfico gerado em 3 dimensões
